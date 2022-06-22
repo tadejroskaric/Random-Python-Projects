@@ -7,7 +7,7 @@ so I put them in a seperate repository. I am providing a short description of ea
 
 2) guessing.py. This is a simple guessing game where the player has 5 tries to guess a randomly generated number between 1 and 10.
 
-3) password.py. The project is a password generator that includes two capital and two small letters and also two numbers and two additional signs
+3) password.py. The project is a password generator that includes two capital and two small letters and also two numbers and two additional signs.
 
 4) temp_converter.py. As the name suggests, it's a temperature converter from Celsius to Fahrenheit. It has a GUI made in Tkinter.
 
