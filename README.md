@@ -9,6 +9,6 @@ so I put them in a seperate repository. I am providing a short description of ea
 
 3) password.py. The project is a password generator that includes two capital and two small letters and also two numbers and two additional signs
 
-4) temp_converter.py. As the name suggests it's a temperature converter from Celsius to Fahrenheit. It has a GUI made in Tkinter.
+4) temp_converter.py. As the name suggests, it's a temperature converter from Celsius to Fahrenheit. It has a GUI made in Tkinter.
 
 
